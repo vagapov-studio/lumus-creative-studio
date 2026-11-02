@@ -4,7 +4,7 @@
 
 [Открыть демо](https://vagapov-studio.netlify.app/portfolio/lumus/site/)
 
-[![Имиджевый сайт дизайн-студии](assets/cover.jpg)](https://vagapov-studio.netlify.app/portfolio/lumus/site/)
+[![Имиджевый сайт дизайн-студии](assets/cover.gif)](https://vagapov-studio.netlify.app/portfolio/lumus/site/)
 
 ## Задача
 
